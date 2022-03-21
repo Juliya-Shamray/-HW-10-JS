@@ -1,0 +1,21 @@
+.table {
+    background-color: violet;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+.table-row {
+    border: 1px solid black;
+
+}
+
+.class-start {
+    background-color: yellow;
+
+}
+
+.table td {
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
